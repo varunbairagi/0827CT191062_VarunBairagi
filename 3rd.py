@@ -1,4 +1,4 @@
-str = '''Hello my name  is Jayesh  Purohit'''
+str = '''Hello my name  is Varun Bairagi'''
 
 doubleSpace = str.count("  ")
 
