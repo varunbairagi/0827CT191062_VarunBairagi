@@ -1,4 +1,4 @@
-string = '''Hello my name  is Jayesh  Purohit'''
+string = '''Hello my name  is Varun Bairagi'''
 
 doubleSpace = string.replace("  ", " ")
 
